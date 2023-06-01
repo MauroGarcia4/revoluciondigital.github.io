@@ -1,0 +1,13 @@
+body {
+    margin-top: 120px;
+    margin-left: 400px;
+    margin-bottom: 120px;
+    margin-right: 400px;
+    border: 3px double white;
+    padding: 6px;
+}
+
+.form-text {
+    color: white;
+}
+
